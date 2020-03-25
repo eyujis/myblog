@@ -1,0 +1,3 @@
+markdown: redcarped
+baseurl: /myblog
+exclude: ['README.md']
